@@ -18,11 +18,13 @@ namespace ApiEjemplo.Controllers
         {
             var random = new Random();
             var forecasts = new List<WeatherForecast>();
+            var index = 0;
 
             foreach (var summary in Summaries)
             {
-                var randomDate = DateTime.Now.Date.AddDays(random.Next(0, 6));
+                var randomDate = DateTime.Now.Date.AddDays(index);
                 var formattedDate = randomDate.ToString("yyyy-MM-dd");
+                index++;
 
                 if (DateTime.TryParseExact(formattedDate, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime parsedDate))
                 {

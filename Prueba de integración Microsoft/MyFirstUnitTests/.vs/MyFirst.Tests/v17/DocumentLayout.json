@@ -29,21 +29,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\UsuarioGA\\Documents\\GitHub\\EjemplosPruebasAutomaticas\\Prueba de integraci\u00F3n Microsoft\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "..\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\UsuarioGA\\Documents\\GitHub\\EjemplosPruebasAutomaticas\\Prueba de integraci\u00F3n Microsoft\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "..\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T21:50:49.894Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -54,8 +41,7 @@
               "RelativeToolTip": "..\\ApiEjemplo\\TestStartup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T21:50:42.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T21:50:42.479Z"
             },
             {
               "$type": "Document",
@@ -67,8 +53,7 @@
               "RelativeToolTip": "..\\ApiEjemplo\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T21:50:39.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T21:50:39.823Z"
             },
             {
               "$type": "Document",
@@ -78,9 +63,22 @@
               "RelativeDocumentMoniker": "Prueba integracion Microsoft.cs",
               "ToolTip": "C:\\Users\\UsuarioGA\\Documents\\GitHub\\EjemplosPruebasAutomaticas\\Prueba de integraci\u00F3n Microsoft\\MyFirstUnitTests\\Prueba integracion Microsoft.cs",
               "RelativeToolTip": "Prueba integracion Microsoft.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwGsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T18:29:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\UsuarioGA\\Documents\\GitHub\\EjemplosPruebasAutomaticas\\Prueba de integraci\u00F3n Microsoft\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\UsuarioGA\\Documents\\GitHub\\EjemplosPruebasAutomaticas\\Prueba de integraci\u00F3n Microsoft\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:50:49.894Z",
               "EditorCaption": ""
             },
             {
@@ -93,8 +91,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Pruebas de XUnit\\ApiEjemplo\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T16:55:29.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T16:55:29.001Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Pruebas de XUnit\\ApiEjemplo\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:59:06.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:59:06.994Z"
             }
           ]
         }
